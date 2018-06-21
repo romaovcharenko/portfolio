@@ -1,0 +1,16 @@
+.header {
+    max-width: 1170px;
+    padding:0;
+}
+.navigation {
+  padding:18px 0;
+ }
+.nav-item a {
+    font-size: 13.5px;
+    text-transform:uppercase;
+    letter-spacing:-.15px;
+    color:black;  
+}
+.nav-item a:hover {
+    color: white;
+}
